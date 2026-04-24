@@ -1,0 +1,17 @@
+/*
+Theme Name: Brilliance Jewelry
+Theme URI: https://example.com/brilliance-jewelry
+Author: iquest-project
+Author URI: https://example.com
+Description: A modern, elegant WordPress theme for fine jewelry and lab-grown diamond e-commerce stores. Fully compatible with WooCommerce. Inspired by leading jewelry retailers, it includes a diamond search, product filters, wishlist, responsive design, and customer account features.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: brilliance-jewelry
+Tags: e-commerce, woocommerce, jewelry, elegant, responsive, one-column, two-columns, custom-logo, custom-menu, featured-images, translation-ready, block-styles, wide-blocks
+*/
+
+/* This file is required by WordPress. Real styles live in assets/css/main.css. */
